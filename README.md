@@ -2,7 +2,7 @@ This project utilizes Flask as the backend framework, SQLAlchemy for ORM and dat
 
 The following documentation provides an overview of the deployment pipeline and how developers can release new builds, manage application configuration, and update deployments.
 
-Technologies and Tools
+**Technologies and Tools**
 Flask: Lightweight Python web framework for building APIs and web applications.
 SQLAlchemy: ORM used to interact with a PostgreSQL database, handling object-relational mapping and migrations.
 Docker: Containerization tool for packaging the application with its dependencies.
